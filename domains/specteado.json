@@ -1,0 +1,12 @@
+{
+  "description": "Specteado's website",
+  "repo": "https://github.com/Specteado/specteado.github.io",
+  "owner": {
+    "username": "specteado",
+    "email": "jusefmasabanda10@gmail.com",
+    "twitter": "Specteado1"
+  },
+  "record": {
+    "CNAME": "specteado.github.io"
+  }
+}
